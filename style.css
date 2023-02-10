@@ -1,4 +1,9 @@
 h1{
+<<<<<<< HEAD
     font-size: 80 px;
     color: plum;
+=======
+    font-size: 90 px;
+    color: green;
+>>>>>>> feature/Rebecca
 }
